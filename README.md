@@ -1,4 +1,4 @@
 KandyIO-API
 ===========
 
-Kandy IO API function
+PHP Script for KandyIO API
